@@ -2,10 +2,10 @@
 
 Created a global sales report using Power BI involves the development of a dynamic and visually engaging report that provides insights into your organization's sales performance on a global scale.
 
-## Data Collection and Integration:
+## 1. Data Collection and Integration:
 
-Gathered sales data from web services.
-Imported and integrated the data into Power BI using the "Get Data" option, selecting the appropriate data connectors.
+- Gathered sales data from web services.
+- Imported and integrated the data into Power BI using the "Get Data" option, selecting the appropriate data connectors.
 
 ## Data Transformation and Cleaning:
 
